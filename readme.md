@@ -3,6 +3,8 @@
 
 ## Format
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/seangenabe/promise-modules-list.svg)](https://greenkeeper.io/)
+
 The list is a single object, in a JSON file, with packages / package-ish strings as keys and their tags as values.
 
 The keys can be:
